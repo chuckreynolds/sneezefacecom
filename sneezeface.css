@@ -1,0 +1,58 @@
+/*!
+ * SneezeFace.com - A Clintus Original
+ * because it's fun to fuck with your friends ;)
+ * by @chuckreynolds
+ */
+.full {
+	background: url(./20161221-clintus-sneezeface-web.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+body {
+	margin: 50px 0;
+	background: none;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.42857143;
+	color: #fff;
+}
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media (min-width: 768px) {
+	.container {
+		width: 750px;
+	}
+}
+@media (min-width: 992px) {
+	.container {
+		width: 970px;
+	}
+}
+@media (min-width: 1200px) {
+	.container {
+		width: 1170px;
+	}
+}
+h1 {
+	margin: .67em 0;
+	font-size: 2em;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.1;
+	color: inherit;
+}
+a, a:visited {
+	color: inherit;
+	text-decoration: underline;
+}
+a:hover {
+	color: #3adc77;
+}
