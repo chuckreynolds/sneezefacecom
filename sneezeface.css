@@ -4,7 +4,7 @@
  * by @chuckreynolds
  */
 .full {
-	background: url(./20161221-clintus-sneezeface-web.jpg) no-repeat center center fixed;
+	background: url(./20161221-clintus-sneeze-face-web.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -55,4 +55,7 @@ a, a:visited {
 }
 a:hover {
 	color: #3adc77;
+}
+img.noshow {
+	display: none;
 }
